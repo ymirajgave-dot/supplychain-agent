@@ -1,0 +1,13 @@
+Meeting Recording (Page 1)
+----------------------------
+Today we reviewed the current challenges in supply chain planning. 
+The group noted that forecast accuracy is only around 65%, leading to frequent mismatches between demand and supply. 
+One of the managers raised concern about the lack of visibility in lead times, particularly in the APAC region. 
+We also discussed the need for scenario planning in case of supply shocks or demand surges.
+
+Meeting Recording (Page 2)
+----------------------------
+Next, the team aligned on creating a small prototype that can integrate SAP data into Snowflake staging. 
+This prototype will test KPIs like OTIF, lead time variability, and service levels. 
+A Power BI view should be prepared to present results to leadership. 
+Follow-ups: validate data quality, define ownership of KPIs, and schedule another check-in two weeks later.
